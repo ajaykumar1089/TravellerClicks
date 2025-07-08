@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TravellerClicks/static/css/main.e6c13ad2.css",
+    "main.js": "/TravellerClicks/static/js/main.0119ff90.js",
+    "static/js/453.bd9b8dbc.chunk.js": "/TravellerClicks/static/js/453.bd9b8dbc.chunk.js",
+    "static/media/hero.png": "/TravellerClicks/static/media/hero.decd6e523fe133c3c563.png",
+    "static/media/blog3.jpg": "/TravellerClicks/static/media/blog3.3d3b146cd484feeb60b3.jpg",
+    "static/media/blog2.jpg": "/TravellerClicks/static/media/blog2.dc40ffa743c0f70dba23.jpg",
+    "static/media/blog1.jpg": "/TravellerClicks/static/media/blog1.d51af4228593a28bcb27.jpg",
+    "static/media/avatarImage.jpg": "/TravellerClicks/static/media/avatarImage.75a8680a1dcb4a8b6f1c.jpg",
+    "static/media/background.jpg": "/TravellerClicks/static/media/background.c97c2611d55c95fc29f3.jpg",
+    "static/media/bihar.jpg": "/TravellerClicks/static/media/bihar.f3c7329beeff1e77b520.jpg",
+    "static/media/odisha.jpg": "/TravellerClicks/static/media/odisha.b2a8da1301898c0afc4e.jpg",
+    "static/media/bengal.jpg": "/TravellerClicks/static/media/bengal.c981669877802dc10d92.jpg",
+    "static/media/jharkhand.jpg": "/TravellerClicks/static/media/jharkhand.86f8ce3299c89d0fc797.jpg",
+    "index.html": "/TravellerClicks/index.html",
+    "main.e6c13ad2.css.map": "/TravellerClicks/static/css/main.e6c13ad2.css.map",
+    "main.0119ff90.js.map": "/TravellerClicks/static/js/main.0119ff90.js.map",
+    "453.bd9b8dbc.chunk.js.map": "/TravellerClicks/static/js/453.bd9b8dbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0119ff90.js"
+  ]
+}
